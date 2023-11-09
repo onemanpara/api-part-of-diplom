@@ -43,7 +43,7 @@
 gradle clean test
 ```
 
-## <img width="4%" title="Jenkins" src="images/logo/Jenkins.svg"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/15-onemanpara-hw27-apiPart/)
+## <img width="4%" title="Jenkins" src="images/logo/Jenkins.svg"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/Students/job/15-onemanpara-hw27-apiPart/)
 
 *Для запуска сборки необходимо нажать кнопку <code><strong>*Собрать сейчас*</strong></code>.*
 
@@ -52,7 +52,7 @@ gradle clean test
 </p>
 
 
-## <img width="4%" title="Allure Report" src="images/logo/Allure.svg"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/15-onemanpara-hw27-apiPart/allure)
+## <img width="4%" title="Allure Report" src="images/logo/Allure.svg"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/Students/job/15-onemanpara-hw27-apiPart/allure)
 
 ### Главное окно
 
